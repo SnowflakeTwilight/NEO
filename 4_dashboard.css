@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="spacesprint.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo"></div>
+        <ul class="menu">
+            <li class="active">
+                <a href="#">
+                    <i class="fas fa-tachometer-alt"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+            <li>
+                <a href="C:\Users\Bareena\Desktop\Spacesprint\Recipe.html#Recipe">
+                    <i class=" fa fa-utensils"></i>
+                    <span>Recipes</span>
+                    
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fa fa-calculator"></i>
+                    <span>Nutrition Calculator</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fa fa-heartbeat"></i>
+                    <span>Health Tracker</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fa fa-people-group"></i>
+                    <span>Forum</span>
+                </a>
+            </li>
+            <li>
+                <a href="C:\Users\Bareena\Desktop\Spacesprint\Subscription.html#Subscription">
+                    <i class="fa fa-indian-rupee-sign"></i>
+                    <span>Subscription</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fa fa-arrow-right-from-bracket"></i>
+                    <span>Logout</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="main-content">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <h2>Your Dashboard</h2>
+                </div>
+                <div class="boxes">
+                    <div class="box box-1">
+                        <span class="text">Welcome To SmartPlate</span>
+                    </div>
+                    <div class="box box-2">
+                        <span class="text">Your Progress</span>
+                    </div>
+                    <div class="box box-3">
+                        <span class="text"></span>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+</body>
+</html>
